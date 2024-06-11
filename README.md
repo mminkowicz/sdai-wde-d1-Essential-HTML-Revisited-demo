@@ -34,3 +34,5 @@ This lab introduces you to the fundamental structure of an HTML document. You'll
 🛑 **Only use this as a reference** 🛑
 
 💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-Essential-HTML-Revisited-demo/blob/solution/index.html) (link not shown).
